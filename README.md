@@ -10,7 +10,10 @@ Link https://github.com/dineshbhalodiya/simple-guide-on-octra
 🔹 Step 1:
 
 ````bash
-curl -fsSL https://bun.sh/install | bash
-source ~/.bashrc
-bun --version
+pip install -r requirements.txt
+````
+
+🔹 Step 2:
+````bash
+cp wallet.json.example wallet.json
 ````
