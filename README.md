@@ -1,4 +1,4 @@
-# simple-guide-on-octra-part-1
+# Guide-on-octra-part-1
 simple guide on octra part 1
 
 Quest1 - Send Tokens
